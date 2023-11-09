@@ -1,3 +1,2 @@
-# Sample Node.js application
-
-This repository is a sample Node.js application for Docker's documentation.
+# docker-project
+This git repo implement CI/CD pipe line with the help of Docker for a Nodejs app. The app also implements RabitMq.
